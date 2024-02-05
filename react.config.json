@@ -24,9 +24,8 @@
 			"inFolder": true,
 			"open": false,
 			"fileNaming": {
-				"name": "{name}",
-				"postfix": "",
-				"casing": "camel"
+				"casing": "camel",
+				"name": "{name}"
 			},
 			"path": "/components",
 			"class": false,
@@ -42,9 +41,8 @@
 			"inFolder": true,
 			"open": false,
 			"fileNaming": {
-				"name": "{name}",
-				"postfix": "",
-				"casing": "camel"
+				"casing": "camel",
+				"name": "{name}"
 			},
 			"path": "/pages"
 		},
@@ -57,9 +55,8 @@
 			"inFolder": true,
 			"open": false,
 			"fileNaming": {
-				"name": "{name}",
-				"postfix": "",
-				"casing": "camel"
+				"casing": "camel",
+				"name": "{name}"
 			},
 			"path": "/layouts"
 		}
